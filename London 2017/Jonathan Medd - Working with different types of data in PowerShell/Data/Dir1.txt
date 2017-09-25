@@ -1,0 +1,25 @@
+﻿
+
+    Directory: C:\Users\Jonathan\Documents\Development\Presentations\PSDayUK\2017
+
+
+Mode                LastWriteTime         Length Name                                                                               
+----                -------------         ------ ----                                                                               
+d-----        19-Sep-17   3:55 PM                Data                                                                               
+-a----        19-Jul-17   3:46 PM            400 CSVFileExamplesIn.ps1                                                              
+-a----        05-Sep-17   6:13 PM            825 CSVFileExamplesOut.ps1                                                             
+-a----        05-Sep-17   6:16 PM            345 ExcelFileExamplesIn.ps1                                                            
+-a----        04-Sep-17   4:24 PM           1101 ExcelFileExamplesOut.ps1                                                           
+-a----        28-Jul-17   6:12 PM            537 JSONFileExamplesIn.ps1                                                             
+-a----        31-Aug-17   5:58 PM            934 JSONFileExamplesOut.ps1                                                            
+-a----        04-Sep-17   2:34 PM           2397 PracticalProblem1.ps1                                                              
+-a----        04-Sep-17   2:59 PM            878 PracticalProblem2.ps1                                                              
+-a----        04-Sep-17   4:39 PM           2045 PracticalProblem3.ps1                                                              
+-a----        05-Sep-17   5:57 PM           1389 TextFileExamplesIn.ps1                                                             
+-a----        19-Sep-17   4:00 PM           2135 TextFileExamplesOut.ps1                                                            
+-a----        05-Sep-17   6:29 PM           3082 XMLFileExamplesIn.ps1                                                              
+-a----        28-Jul-17   4:47 PM           4727 XMLFileExamplesOut.ps1                                                             
+-a----        08-Aug-17   5:14 PM            291 YamlFileExamplesIn.ps1                                                             
+-a----        08-Aug-17   5:47 PM            338 YamlFileExamplesOut.ps1                                                            
+
+

@@ -1,0 +1,18 @@
+﻿[
+    {
+        "name":  "Jane",
+        "age":  27,
+        "fruit":  [
+                      "Apple",
+                      "Pear"
+                  ]
+    },
+    {
+        "name":  "Freddy",
+        "age":  32,
+        "fruit":  [
+                      "Kiwi",
+                      "Orange"
+                  ]
+    }
+]

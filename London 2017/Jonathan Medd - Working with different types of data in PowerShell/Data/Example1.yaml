@@ -1,0 +1,15 @@
+# Family records
+-  homer:
+    name: Homer Simpson
+    job: Nuclear Safety Inspector
+    skills:
+      - bowling
+      - singing
+      - eating
+-  lisa:
+    name: Lisa Simpson
+    job: Student
+    skills:
+      - saxophone
+      - studying
+      - languages
