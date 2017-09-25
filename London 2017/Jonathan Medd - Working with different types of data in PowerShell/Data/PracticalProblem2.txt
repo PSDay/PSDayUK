@@ -1,0 +1,29 @@
+Homer Simpson
+742 Evergreen Terrace
+Springfield
+321-827-8734
+
+Moe
+Moes Tavern
+Springfield
+834-235-2345
+
+Seymour Skinner
+Springfield Elementary School
+Springfield
+390-534-2923
+
+Ned Flanders
+744 Evergreen Terrace
+Springfield
+321-827-8734
+
+Montgomery Burns
+Springfield Nuclear Power Plant
+Springfield
+342-252-4533
+
+Krusty Clown
+Krustyland
+Springfield
+321-324-9823

@@ -1,0 +1,16 @@
+Data
+CSVFileExamplesIn.ps1
+CSVFileExamplesOut.ps1
+ExcelFileExamplesIn.ps1
+ExcelFileExamplesOut.ps1
+JSONFileExamplesIn.ps1
+JSONFileExamplesOut.ps1
+PracticalProblem1.ps1
+PracticalProblem2.ps1
+PracticalProblem3.ps1
+TextFileExamplesIn.ps1
+TextFileExamplesOut.ps1
+XMLFileExamplesIn.ps1
+XMLFileExamplesOut.ps1
+YamlFileExamplesIn.ps1
+YamlFileExamplesOut.ps1

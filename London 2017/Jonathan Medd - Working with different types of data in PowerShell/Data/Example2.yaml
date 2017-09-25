@@ -1,0 +1,11 @@
+nested:
+  array:
+  - this
+  - is
+  - an
+  - array
+hello: world
+anArray:
+- 1
+- 2
+- 3
