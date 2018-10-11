@@ -1,0 +1,4 @@
+{
+    "powershell.scriptAnalysis.settingsPath": "PSScriptAnalyzerSettings.psd1",
+    "workbench.colorTheme": "Default Dark+"
+}
