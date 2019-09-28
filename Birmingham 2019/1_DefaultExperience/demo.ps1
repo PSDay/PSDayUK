@@ -9,6 +9,8 @@ function Get-foo {
         Write-Host
 }
 
+get-foo
+
 foo
 
 # Formatting: Ctrl + K + F 
