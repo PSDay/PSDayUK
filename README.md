@@ -1,3 +1,3 @@
-# PSDayUK - London - 2017 & 2018 
+# PSDayUK
 
-You will find the slides and demos from the speakers in the folders in this repository
+You will find the slides and demos from the speakers in the folders in this repository.
